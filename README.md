@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khushibhalodi11
-- 👀 I’m interested in ... web development using html 
+- 👀 I’m interested in ... web development especially front-end.
 - 🌱 I’m currently learning ...btech computer engineering 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... reach me at khushibhalodi11@gmail.com 
